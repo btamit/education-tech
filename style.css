@@ -1,6 +1,18 @@
-/* .carousel-item {
-    background-color: #000;
+ .carousel-item {
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+   
 }
-.carousel-item img{
-    opacity: 0.5;
-} */
+.carousel-item .container{
+    position: absolute;
+    top:40%;
+    text-align: center;
+
+}
+.slider-img{
+   background-image: url(/images/cover/cover-1.png);
+   background-color: rgba(0,0,0,0.5);
+   background-blend-mode: overlay;
+
+}
