@@ -1,3 +1,10 @@
+ /* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@500&display=swap');
+
+ span{
+   font-family: 'Lobster', cursive;
+ }
+ 
  .nav-link:hover{
     background-color:#2980b9;
     color:white;
